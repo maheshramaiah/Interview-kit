@@ -1,0 +1,118 @@
+Round 1
+	1. Output 
+		for(var i=0; i<5; i++) {
+			setTimeout(function() {
+				console.log(i);
+			}, 1000);
+		}
+		some questions on this, bind
+	2. Polyfill for array reduce
+	3. Debounce and Throttle
+	4. Cookies
+	5. Web components - star rating
+	6. Postion fixed vs sticky
+	7. Css specificity
+	8. Find maximum elements repeating in a array
+
+Round 2
+	1. Find max substring with unique characters in string
+	2. Find pivot point in array in log n ([1,2,3,4,5,0,1]) -> 5
+
+Round 3
+	1. Toughest project
+	2. Critical feedback from manager
+	3. Critical production issue
+	4. Web security
+	5. Unit testing
+	6. Initiatives taken
+
+Round 4
+	1. Print all numbers with length 3 -> 123, 234, 345, 456 .....
+	2. Design question -> user listing, searching, sorting, filtering, api schema
+	3. Web performance
+		a. How to imprive initial page load
+		b. How to show large data in page (types of pagination)
+	4. HTTP2
+	5. Capturing vs Bubbling
+
+Round 5 (Bar riser)
+	1. Toughest project
+	2. Critical production issue
+	3. Project done with lot of researchinh
+	4. Complex data model handled
+	5. Project architecture
+	6. Web performance
+	7. Testing
+
+
+BEHAVORIAL QUESTIONS
+
+	1. Why Amazon ?
+		- Customer centric, best place for any developers
+		- Quickly adapting to new technologies, career development
+		- working with greatest minds, learning from them
+
+	2. Why do you want to leave previous company ?
+
+	3. Tell me about a time when you were faced with a problem that had a number of possible solutions. 
+	What was the problem and how did you determine the course of action? What was the outcome of that choice?
+	- Plugin architecture
+
+	4. When did you take a risk, make a mistake, or fail? How did you respond, and how did you grow from that experience?
+		- Beroe
+		- Risk - rendering 3D models in web, page crash, not performant
+
+	5. Best project
+		- Backbone to React migration
+		- Component library
+
+	6. Critical production issue
+		- Carousel performance
+		- Batch api calls due max query limit
+
+	7. Motivation to others
+		- Involve in decision making, discussions
+
+	8. Conflict with manager ?
+		- Migration 
+
+	9. Critical feedback ?
+
+	10. Tell me about a time you overcame an obstacle.
+		- question 4
+
+	11. How do you handle stress?
+		- communication
+		- running
+
+	12. What have been your most positive and negative management experiences?
+
+	13. What’s your biggest weakness?
+
+	14. Do you have any regrets?
+
+*******************************
+
+1. Migration from backbone to react
+
+	Motivation
+
+	1. Adapt to latest technology, better ways to build UI
+	2. Achieve better web performance -> code splitting, css modules
+	3. Better state management
+	4. Better debugging tools with react
+	5. Improve developer experience - Faster builds, hot reloading
+	6. Efficient way of testing
+
+	Problems
+
+	1. Tree shaking -> usage of AMD modules
+	2. Larger webpack builds due to dynamic requires
+	3. Hash routing 
+
+2. State machine -> with SSE
+
+3. Carousel performance -> requestAnimationFrame
+
+4. Design system
+	- better api for using react components

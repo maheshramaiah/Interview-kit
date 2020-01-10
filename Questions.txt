@@ -1,0 +1,18 @@
+1. Debounce
+2. Throttling
+3. Event bubbling and capturing
+4. Event delegation
+5. sum(1)(2)(3)(4)....()
+6. call, apply, bind
+7. Bind polyfill
+8. Prototypes
+9. Closures
+10. this
+11. CORS
+12. async, defer attributes in script tag
+13. currying -> sum(1)(2)
+14. compose -> a(b(1))
+
+Machine Coding
+1. Comments
+2. TODO (Jira)

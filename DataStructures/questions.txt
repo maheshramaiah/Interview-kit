@@ -1,0 +1,8 @@
+1. Find the smallest window in a string containing all characters of another string
+2. Sort an array without changing position of negative numbers
+3. Maximum sum of i*arr[i] among all rotations of a given array
+4. Largest Sum Contiguous Subarray
+5. Minimum no. of swaps to sort array in ascending order
+6. Find the next greatest element for all elements in a array
+7. Two elements in a array whose sum is nearest to zero
+8. Find Subarray with given sum 

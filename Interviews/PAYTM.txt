@@ -1,0 +1,14 @@
+PAYTM
+
+1. unique chars in string
+2. string palindrome
+3. sum(1)(2)(3)()
+4. fizzbuzz game
+5. merge two sorted arrays
+
+6. design question (flight booking)
+7. personal projects
+
+8. palindrome (mathemetical method)
+9. "abcccbd" => "ad"
+10. virtual scroll
