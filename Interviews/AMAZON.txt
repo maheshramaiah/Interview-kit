@@ -30,7 +30,7 @@ Round 4
 	1. Print all numbers with length 3 -> 123, 234, 345, 456 .....
 	2. Design question -> user listing, searching, sorting, filtering, api schema
 	3. Web performance
-		a. How to imprive initial page load
+		a. How to improve initial page load
 		b. How to show large data in page (types of pagination)
 	4. HTTP2
 	5. Capturing vs Bubbling
